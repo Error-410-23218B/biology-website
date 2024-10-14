@@ -1,7 +1,7 @@
 "use client"
 
 import { useState, useEffect } from 'react'
-import { Dna, Skull, Leaf, Microscope } from "lucide-react"
+import {Home, Dna, Skull, Leaf, Microscope } from "lucide-react"
 import Link from "next/link"
 
 export default function Component() {
@@ -32,13 +32,23 @@ export default function Component() {
                 }`} 
               />
             </div>
-            <h1 className="text-2xl sm:text-3xl font-bold">Biology Challenge</h1>
+            <h1 
+              className="text-2xl sm:text-3xl font-bold transition-transform duration-200 hover:animate-bounce"
+            >
+              Biology Challenge
+            </h1>
           </div>
           <nav className="flex space-x-4">
-            <Link href="#" className="flex items-center hover:text-green-200 transition-colors duration-200">
+          <Link href="/"  className="flex items-center hover:text-green-200 transition-colors duration-200">
+              <Home className="h-5 w-5 mr-1" />
+              <span>Home</span>
+            </Link>
+
+            <Link href="/profile"  className="flex items-center hover:text-green-200 transition-colors duration-200">
               <Leaf className="h-5 w-5 mr-1" />
               <span>About us</span>
             </Link>
+
  
           </nav>
         </div>

@@ -54,7 +54,7 @@ export default function ImageSections() {
           {sections.map((section, index) => (
             <button
               key={index}
-              className="focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-opacity-50 hover:bg-black hover:bg-opacity-10 transition-colors duration-200"
+              className="focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-opacity-50 hover:bg-white hover:bg-opacity-10 transition-colors duration-200"
               onClick={() => setOpenSection(index)}
               aria-label={`Open ${section.title}`}
             />
