@@ -7,22 +7,23 @@ import trexPic from './/Constantin_Tsarouchas_detailed_fossil,_beige_+_dark_anci
 
 const sections = [
   { 
-    title: "Section 1", 
+    title: "Predator and Prey", 
+
     description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut at augue aliquam, aliquam felis et, fermentum arcu. Donec a elit felis. Curabitur eget purus eget sem blandit elementum. Integer sed dolor nunc. Quisque eget quam at nisl finibus cursus. Aliquam molestie augue risus, a tincidunt nunc rutrum non. Donec pellentesque, est nec tristique consectetur, dolor nisi dignissim tortor, nec scelerisque dolor eros a dui. Etiam sem dui, tempor dapibus augue ac, feugiat efficitur augue. Praesent rutrum dui eros, et posuere eros vulputate vitae. Nullam vel iaculis tortor. Cras nisl risus, sodales in tincidunt ut, porttitor sit amet quam. Curabitur vitae auctor ligula. Nulla facilisi. Nam elit risus, dictum vitae libero in, luctus cursus elit. Ut eleifend consequat elementum. Donec dapibus lacus eros, rhoncus porttitor mauris tempus id. Vivamus pellentesque, purus quis imperdiet ullamcorper, magna ante consectetur orci, non mollis sem mi congue sem. Sed sed ligula hendrerit, sodales quam a, finibus quam. Quisque ultrices rutrum dignissim. Curabitur eget gravida magna. Fusce enim est, tempor eget massa et, tempus tempus felis. Nulla bibendum consequat leo vitae feugiat. Morbi tincidunt pulvinar auctor. Aliquam erat volutpat.", 
     imageUrl: "/placeholder.svg?height=300&width=400&text=Section+1"
   },
   { 
-    title: "Section 2", 
+    title: "Herd", 
     description: "Here's what section 2 is all about.", 
     imageUrl: "/placeholder.svg?height=300&width=400&text=Section+2"
   },
   { 
-    title: "Section 3", 
+    title: "Migration", 
     description: "Section 3 has some interesting information.", 
     imageUrl: "/placeholder.svg?height=300&width=400&text=Section+3"
   },
   { 
-    title: "Section 4", 
+    title: "Social", 
     description: "Let's explore what section 4 has to offer.", 
     imageUrl: "/placeholder.svg?height=300&width=400&text=Section+4"
   },
