@@ -11,7 +11,7 @@ export default function Home() {
 
   return (
 
-<div className="relative h-max bg-[#a88d6a] overflow-hidden">
+<div className="relative h-screen bg-[#a88d6a] overflow-hidden">
 
 
 <Header/>

@@ -49,6 +49,10 @@ export default function Component() {
               <span>About us</span>
             </Link>
 
+            <Link href="/home"  className="flex items-center hover:text-green-200 transition-colors duration-200">
+              <Leaf className="h-5 w-5 mr-1" />
+              <span>Home2</span>
+            </Link>
  
           </nav>
         </div>
