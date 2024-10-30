@@ -3,7 +3,7 @@
 import { useState, useEffect } from 'react'
 import {Home, Dna, Skull, Leaf, Microscope } from "lucide-react"
 import Link from "next/link"
-
+import ThemeButton from "./theme-button"
 export default function Component() {
   const [isGene, setIsGene] = useState(true)
 
@@ -53,6 +53,7 @@ export default function Component() {
               <Leaf className="h-5 w-5 mr-1" />
               <span>Home2</span>
             </Link>
+
  
           </nav>
         </div>
