@@ -6,7 +6,7 @@ const teamMembers = [
   {
     name: "Constantin Tsarouchas",
     role: "Team Leader",
-    bio: "Constantin Tsarouchas is a passionate young leader and dedicated student at Simon Langton Grammar School for Boys, where he has taken on the role of team leader for the Cambridge Biology Challenge . Since joining the club in his freshman year, Constantin Tsarouchas has worked tirelessly to expand his knowledge of biology and encourage his peers to develop a love for the natural sciences.",
+    bio: "Constantin Tsarouchas is a passionate young leader and dedicated student at Simon Langton Grammar School for Boys, where he has taken on the role of team leader for the Cambridge Biology Challenge . Since taking on the leadership role, Constantin Tsarouchas has worked tirelessly to expand his knowledge of biology and encourage his peers to develop a love for the natural sciences.",
     imageUrl: "/placeholder.svg?height=150&width=150",
     initials: "CT"
   },
