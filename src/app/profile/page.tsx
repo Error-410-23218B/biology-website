@@ -6,7 +6,7 @@ const teamMembers = [
   {
     name: "Constantin Tsarouchas",
     role: "Team Leader",
-    bio: "Constantin Tsarouchas is a passionate young leader and dedicated student at Simon Langton Grammar School for Boys, where he has taken on the role of team leader for the Cambridge Biology Challenge . Since joining the club in his freshman year, Alex has worked tirelessly to expand his knowledge of biology and encourage his peers to develop a love for the natural sciences.",
+    bio: "Constantin Tsarouchas is a passionate young leader and dedicated student at Simon Langton Grammar School for Boys, where he has taken on the role of team leader for the Cambridge Biology Challenge . Since joining the club in his freshman year, Constantin Tsarouchas has worked tirelessly to expand his knowledge of biology and encourage his peers to develop a love for the natural sciences.",
     imageUrl: "/placeholder.svg?height=150&width=150",
     initials: "CT"
   },
@@ -27,7 +27,7 @@ const teamMembers = [
   {
     name: "Josh Paul",
     role: "Research Coordinator",
-    bio: "As the Research Coordinator for a high school Biology Challenge team, Josh Paul plays a pivotal role in guiding and preparing students to excel in biology competitions. With a passion for the life sciences and a commitment to academic excellence, [he/she/they] brings a wealth of knowledge and organization to the team, ensuring that each member is well-prepared to tackle complex biological concepts and challenging scientific questions.",
+    bio: "As the Research Coordinator for a high school Biology Challenge team, Josh Paul plays a pivotal role in guiding and preparing students to excel in biology competitions. With a passion for the life sciences and a commitment to academic excellence, he brings a wealth of knowledge and organization to the team, ensuring that each member is well-prepared to tackle complex biological concepts and challenging scientific questions.",
     imageUrl: "/placeholder.svg?height=150&width=150",
     initials: "JP"
   },
