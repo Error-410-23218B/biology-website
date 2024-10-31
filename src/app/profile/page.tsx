@@ -5,7 +5,7 @@ import Header  from "../header"
 const teamMembers = [
   {
     name: "Constantin Tsarouchas",
-    role: "Leader",
+    role: "Team Leader",
     bio: "Constantin Tsarouchas is a passionate young leader and dedicated student at Simon Langton Grammar School for Boys, where he has taken on the role of team leader for the Cambridge Biology Challenge . Since joining the club in his freshman year, Alex has worked tirelessly to expand his knowledge of biology and encourage his peers to develop a love for the natural sciences.",
     imageUrl: "/placeholder.svg?height=150&width=150",
     initials: "CT"
@@ -37,7 +37,17 @@ const teamMembers = [
     bio: "As the Internal Communications Coordinator for the high school Biology Challenge Team, Calista-Jean Lategan plays a crucial role in ensuring effective collaboration and seamless information flow among team members, coaches, and supporting faculty. With a strong foundation in biology and a commitment to fostering a collaborative learning environment, Calista-Jean Lategan is dedicated to enhancing the team’s performance through clear, structured communication and organizational skills.",
     imageUrl: "/placeholder.svg?height=150&width=150",
     initials: "CJL"
+  },
+
+  {
+    name: "Rohan Jose",
+    role: "Chief Website Engineer",
+    bio: "Rohan Jose serves as the Chief Website Engineer for the Biology Challenge, bringing his technical expertise and innovative approach to ensure seamless functionality, accessibility, and user engagement for the platform. With a solid background in web development,he skillfully manages all aspects of the website's structure, design, and user interface, creating an experience that supports both participants and organizers.",
+    imageUrl: "/placeholder.svg?height=150&width=150",
+    initials: "RJ"
   }
+
+
 ]
 
 export default function AboutUs() {
