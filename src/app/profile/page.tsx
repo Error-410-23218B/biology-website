@@ -48,9 +48,9 @@ export default function AboutUs() {
 
       <main className="container mx-auto px-4 py-12">
         <section className="mb-12">
-          <h2 className="text-3xl font-semibold mb-4">Our Mission</h2>
+          <h2 className="text-3xl font-semibold mb-4">Summary</h2>
           <p className="text-lg text-muted-foreground">
-            We do biology stuff I guess.
+            Our team has set out to create an interactive webpage to illustrate various aspects of dinosaur biology.
           </p>
         </section>
         <section>

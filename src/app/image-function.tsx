@@ -7,7 +7,7 @@ import trexPic from './/Constantin_Tsarouchas_detailed_fossil,_beige_+_dark_anci
 import herd from ".//herd.jpeg"
 import predation from ".//predation.png"
 import huh from ".//unnamed (10).png"
-
+import fossilevidence from ".//41598_2016_Article_BFsrep18952_Fig2_HTML.webp"
 const sections = [
   { 
     title: "Social", 
@@ -31,21 +31,23 @@ const sections = [
     imageUrl: huh
   },
   { 
-    title: "Predator and prey", 
+    title: "Prey", 
     description: (
       <div className="space-y-4">
-        <p>
-          During the late Ediacaran period, evidence of predation significantly reshaped the dynamics of early marine ecosystems.
-        </p>
-        <p>
-          Researchers found circular holes in the fossils of Cloudina, a coral-like worm, indicating that an unknown predator targeted these organisms. This suggests that predation was becoming a common ecological interaction, marking a pivotal shift in how organisms related to one another.
-        </p>
-        <p>
-          As predation intensified, many early life forms developed strategies for survival. Some organisms, for instance, created U-shaped burrows in the seabed. These burrows likely served as escapes, offering protection from predators.
-        </p>
-        <p>
-          The ability to dig and inhabit these burrows illustrates an early behavioural adaptation to predation, allowing organisms to avoid becoming a meal.
-        </p>
+<p>
+One behaviour, whose fossilised evidence can be tracked through aeons, is the age-old
+primaeval behaviour of predation and the relationship between predation and prey. Some of the
+earliest evidence of this comes from the Cambrian period, in the Paleozoic era more than 540
+million years ago. 
+</p>
+<p>
+This point in time was characterised with the appearance of some of the first
+vertebrates, fish along with many arthropods. Among these arthropods (organisms with no
+internal skeleton but instead a hard exoskeleton) was the trilobite, a small crab-like animal that
+roamed the sea bed. They were predatory, and this can be seen in their fossil record: repair
+scars on their exoskeletons, skeletal fragments in coprolites (fossilised faeces) and the damage
+done by struggles with live prey.
+</p>
       </div>
     ),
 
@@ -59,19 +61,25 @@ const sections = [
 
 <p>
 
-The study of mating behavior in fossils relies on evolutionary principles introduced by Charles Darwin, specifically intrasexual competition (the "Law of Battle") and intersexual selection. Intrasexual competition, where males fight for access to females, is evidenced by fossilized traits like antlers or horns and suggests that only the strongest individuals reproduced. Modern research shows this competition can affect both sexes, particularly when resources are scarce.
-</p>
+Intrasexual competition involves males engaging in physical contests for mating
+opportunities, ensuring that only the strongest individuals pass on their genes. Fossil
+evidence of this can be found in traits like antlers or horns, or in injuries that suggest
+combat. Modern research shows that sexual selection also affects females,
+especially in species where resources are limited, highlighting the evolutionary
+significance of competition in both sexes.</p>
 
 <p>
-Intersexual selection, or female choice, involves females selecting mates based on traits indicating genetic fitness, impacting future genetic diversity. Fossils displaying sexually dimorphic features, such as elaborate male ornaments, support this selection process.
-
+Darwin also recognized the role of female choice, where females select mates based
+on characteristics like physical traits or behaviours that signal genetic fitness. This
+process influences the genetic diversity of future generations. Modern studies have
+expanded on this idea, identifying direct benefits (e.g., resource access or
+protection) and indirect benefits (e.g., genetic quality) as key drivers of female
+mating preferences. Fossils showing sexually dimorphic traits, such as elaborate
+male ornaments, provide evidence of this selection.
 
 </p>
 
-<p>
-Recently, "scrape marks" found in Cretaceous rock formations reveal courtship displays by theropod dinosaurs, reminiscent of modern ground-nesting bird behaviors. These marks, likely from "nest-scrape displays," provide the first physical evidence of dinosaur courtship behavior, showing an evolutionary link between dinosaur and bird mating strategies.
 
-</p>
       </div>
     ),
     imageUrl: "/placeholder.svg?height=300&width=400&text=Section+3"
@@ -102,13 +110,60 @@ eventually learn what is the best way to fit into the group.
     imageUrl: herd
   },
   { 
-    title: "Section 5", 
-    description: "Section 5 brings something unique to the table.", 
-    imageUrl: "/placeholder.svg?height=300&width=400&text=Section+5"
+    title: "Fossil Evidence", 
+    description: (<div className="space-y-4"><p>
+      The study of mating behaviour through fossils relies on evolutionary principles,
+particularly those introduced by Charles Darwin. Darwin identified two key
+mechanisms: intrasexual competition, or the "Law of Battle," where males compete
+for access to females, and intersexual selection, where females choose mates based
+on desirable traits. These concepts remain central to understanding sexual selection
+
+and species evolution.
+      </p>
+      
+<p>
+The discovery of ‘scrape marks’ provides evidence for courtship displays left by
+theropod dinosaurs in Cretacious rock formations. These scrapes up to 2 metres in
+diameter represent ‘nest-scrape display’ which is seen in modern ground-nesting
+birds and is a testament to the organism’s fitness to attract females. This also shows
+lekking behaviour, as is proposed to be present in theropod dinosaurs during the
+breeding season to compete for mates.
+This marks the first physical trace of courtship displays in dinosaurs and an insight
+into reproductive behaviour. These scrapes show a new understanding of trace
+fossils and provide an evolutionary link between ancient dinosaurs and modern birds
+in their mating strategies.
+</p>
+
+      </div>), 
+    imageUrl: fossilevidence
   },
   { 
-    title: "Section 6", 
-    description: "And finally, we have section 6.", 
+    title: "Predators", 
+    description: (
+    <div className='space-y-4'>
+      <p>
+        During the late Ediacaran period, evidence of predation significantly reshaped the
+dynamics of early marine ecosystems. Researchers found circular holes in the fossils
+of Cloudina, a coral-like worm, indicating that an unknown predator targeted these
+organisms.
+      </p>
+
+<p>
+This suggests that predation was becoming a common ecological
+interaction, marking a pivotal shift in how organisms related to one another. As
+predation intensified, many early life forms developed strategies for survival. Some
+organisms, for instance, created U-shaped burrows in the seabed.
+</p>
+
+<p>
+These burrows likely served as escapes, offering protection from predators. The ability to dig and
+inhabit these burrows illustrates an early behavioural adaptation to predation,
+allowing organisms to avoid becoming a meal.
+</p>
+    </div>
+
+
+    ), 
     imageUrl: "/placeholder.svg?height=300&width=400&text=Section+6"
   },
 ]
