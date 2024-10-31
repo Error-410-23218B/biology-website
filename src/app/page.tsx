@@ -1,8 +1,5 @@
 
-import Image from "next/image";
 import ImageSections from "./image-function";
-import Logo from "./biology-challenge"
-import BiologyChallengelogo from "./biology-challenge";
 import Header  from "./header"
 export default function Home() {
 

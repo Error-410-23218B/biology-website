@@ -1,9 +1,8 @@
 "use client"
 
 import { useState, useEffect } from 'react'
-import {Home, Dna, Skull, Leaf, Microscope } from "lucide-react"
+import {Home, Dna, Leaf, Microscope } from "lucide-react"
 import Link from "next/link"
-import ThemeButton from "./theme-button"
 export default function Component() {
   const [isGene, setIsGene] = useState(true)
 
