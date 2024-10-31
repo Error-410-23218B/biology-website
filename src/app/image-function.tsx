@@ -8,8 +8,8 @@ import herd from ".//herd.jpeg"
 import predation from ".//predation.png"
 import huh from ".//unnamed (10).png"
 import fossilevidence from ".//41598_2016_Article_BFsrep18952_Fig2_HTML.webp"
-import pred from ".//pred.png"
-import court from ".//court.png"
+import pred from ".//preda.png"
+import court from ".//courts.png"
 
 const sections = [
   { 
