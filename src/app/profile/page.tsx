@@ -4,39 +4,39 @@ import Header  from "../header"
 
 const teamMembers = [
   {
-    name: "...",
-    role: "...",
-    bio: "bla bla bla",
+    name: "Constantin Tsarouchas",
+    role: "Leader",
+    bio: "Constantin Tsarouchas is a passionate young leader and dedicated student at Simon Langton Grammar School for Boys, where he has taken on the role of team leader for the Cambridge Biology Challenge . Since joining the club in his freshman year, Alex has worked tirelessly to expand his knowledge of biology and encourage his peers to develop a love for the natural sciences.",
     imageUrl: "/placeholder.svg?height=150&width=150",
-    initials: "AJ"
+    initials: "CT"
   },
   {
-    name: "...",
-    role: "...",
-    bio: "bla bla bla",
+    name: "Ali Behilak",
+    role: "Script Reviewer",
+    bio: "Ali Behilak is a dedicated script reviewer for the Biology Team at Simon Langton Grammar School for Boys, where their keen eye for detail and passion for scientific accuracy significantly enhance the quality of presentations and educational content. In their role, Ali Behilak meticulously evaluates scripts, ensuring that each piece aligns with scientific standards and conveys complex biological concepts in an accessible, engaging manner.",
     imageUrl: "/placeholder.svg?height=150&width=150",
-    initials: "BS"
+    initials: "AB"
   },
   {
-    name: "...",
-    role: "...",
-    bio: "bla bla bla",
+    name: "Eddie Coupe",
+    role: "Principal Investigator",
+    bio: "As the Principal Investigator, Eddie Coupe oversees the team’s research projects, guiding the team through experimental design, data analysis, and scientific communication. By nurturing a collaborative environment, Eddie Coupe empowers team members to engage deeply with complex biological concepts and develop innovative solutions to challenging problems. Dedicated to excellence and lifelong learning, Eddie Coupe continues to mentor and inspire the next generation of biologists with a commitment to both science",
     imageUrl: "/placeholder.svg?height=150&width=150",
-    initials: "CW"
+    initials: "EC"
   },
   {
-    name: "...",
-    role: "...",
-    bio: "bla bla bla",
+    name: "Josh Paul",
+    role: "Research Coordinator",
+    bio: "As the Research Coordinator for a high school Biology Challenge team, Josh Paul plays a pivotal role in guiding and preparing students to excel in biology competitions. With a passion for the life sciences and a commitment to academic excellence, [he/she/they] brings a wealth of knowledge and organization to the team, ensuring that each member is well-prepared to tackle complex biological concepts and challenging scientific questions.",
     imageUrl: "/placeholder.svg?height=150&width=150",
-    initials: "DB"
+    initials: "JP"
   },
   {
-    name: "...",
-    role: "...",
-    bio: "bla bla bla",
+    name: "Calista-Jean Lategan",
+    role: "Internal Communications Coordinator.",
+    bio: "As the Internal Communications Coordinator for the high school Biology Challenge Team, Calista-Jean Lategan plays a crucial role in ensuring effective collaboration and seamless information flow among team members, coaches, and supporting faculty. With a strong foundation in biology and a commitment to fostering a collaborative learning environment, Calista-Jean Lategan is dedicated to enhancing the team’s performance through clear, structured communication and organizational skills.",
     imageUrl: "/placeholder.svg?height=150&width=150",
-    initials: "EM"
+    initials: "CJL"
   }
 ]
 
