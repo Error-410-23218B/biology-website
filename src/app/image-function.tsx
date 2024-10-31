@@ -8,6 +8,8 @@ import herd from ".//herd.jpeg"
 import predation from ".//predation.png"
 import huh from ".//unnamed (10).png"
 import fossilevidence from ".//41598_2016_Article_BFsrep18952_Fig2_HTML.webp"
+import pred from ".//pred.png"
+import court from ".//court.png"
 const sections = [
   { 
     title: "Social", 
@@ -82,7 +84,7 @@ male ornaments, provide evidence of this selection.
 
       </div>
     ),
-    imageUrl: "/placeholder.svg?height=300&width=400&text=Section+3"
+    imageUrl: court
   },
   { 
     title: "Herd", 
@@ -164,7 +166,7 @@ allowing organisms to avoid becoming a meal.
 
 
     ), 
-    imageUrl: "/placeholder.svg?height=300&width=400&text=Section+6"
+    imageUrl: pred
   },
 ]
 
