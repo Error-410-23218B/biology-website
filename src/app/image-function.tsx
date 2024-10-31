@@ -10,6 +10,7 @@ import huh from ".//unnamed (10).png"
 import fossilevidence from ".//41598_2016_Article_BFsrep18952_Fig2_HTML.webp"
 import pred from ".//pred.png"
 import court from ".//court.png"
+
 const sections = [
   { 
     title: "Social", 
