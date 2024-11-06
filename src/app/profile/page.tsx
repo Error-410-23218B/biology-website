@@ -27,7 +27,7 @@ const teamMembers = [
   {
     name: "Josh Poole",
     role: "Research Coordinator",
-    bio: "As the Research Coordinator for a high school Biology Challenge team, Josh Paul plays a pivotal role in guiding and preparing students to excel in biology competitions. With a passion for the life sciences and a commitment to academic excellence, he brings a wealth of knowledge and organization to the team, ensuring that each member is well-prepared to tackle complex biological concepts and challenging scientific questions.",
+    bio: "As the Research Coordinator for a high school Biology Challenge team, Josh Poole plays a pivotal role in guiding and preparing students to excel in biology competitions. With a passion for the life sciences and a commitment to academic excellence, he brings a wealth of knowledge and organization to the team, ensuring that each member is well-prepared to tackle complex biological concepts and challenging scientific questions.",
     imageUrl: "/placeholder.svg?height=150&width=150",
     initials: "JP"
   },
